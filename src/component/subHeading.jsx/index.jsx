@@ -2,8 +2,12 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 
+
 const Subheading = () => {
   return (
+    <>
+    
+    
     <nav
       className="navbar navbar-expand-lg shadow-sm"
       style={{ backgroundColor: "#66bb6a" }} // 🌿 soft green color
@@ -52,6 +56,7 @@ const Subheading = () => {
         </div>
       </div>
     </nav>
+    </>
   );
 };
 
