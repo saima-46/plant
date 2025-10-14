@@ -35,15 +35,16 @@ const Subheading = () => {
               </Link>
             </li>
 
-            <li className="nav-item">
-              <Link to="/about" className="nav-link text-white fw-semibold">
-                About
-              </Link>
-            </li>
+           
 
             <li className="nav-item">
               <Link to="/plant" className="nav-link text-white fw-semibold">
                 Plants
+              </Link>
+            </li>
+             <li className="nav-item">
+              <Link to="/about" className="nav-link text-white fw-semibold">
+                About
               </Link>
             </li>
 

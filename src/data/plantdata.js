@@ -1,0 +1,98 @@
+export const plantData = [
+  {
+    id: 1,
+    name: "Aloe Vera",
+    price: 15,
+    image: "https://plus.unsplash.com/premium_photo-1669905375532-5a1fd0e94efb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBsYW50JTIwYWxvdmVyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+  },
+  {
+    id: 2,
+    name: "Snake Plant",
+    price: 20,
+    image: "https://images.unsplash.com/photo-1613498717076-c0d2d82ecf2d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHNuYWtlJTIwcGxhbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+  },
+  {
+    id: 3,
+    name: "Peace Lily",
+    price: 25,
+    image: "https://media.istockphoto.com/id/536772045/photo/st-josephs-lily.webp?a=1&b=1&s=612x612&w=0&k=20&c=qrYNLsplqq9NLTqLZW71zx0ZPGLkEstFs8J489LOX3w=",
+  },
+  {
+    id: 4,
+    name: "Spider Plant",
+    price: 18,
+    image: "https://images.unsplash.com/photo-1668117653442-dd03862e957f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c3BpZGVyJTIwcGxhbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+  },
+  {
+    id: 5,
+    name: "Fiddle Leaf Fig",
+    price: 35,
+    image: "https://images.unsplash.com/photo-1721908406342-b216fb7a0d0f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fEZpZGRsZSUyMExlYWYlMjBGaWd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+  },
+  {
+    id: 6,
+    name: "Monstera Deliciosa",
+    price: 30,
+    image: "https://images.unsplash.com/photo-1626929252164-27c26d107b00?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TW9uc3RlcmElMjBEZWxpY2lvc2F8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+  },
+  {
+    id: 7,
+    name: "Jade Plant",
+    price: 22,
+    image: "https://images.unsplash.com/photo-1616189596748-20a7a4687a62?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8SmFkZSUyMFBsYW50fGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+  },
+  {
+    id: 8,
+    name: "Boston Fern",
+    price: 28,
+    image: "https://media.istockphoto.com/id/1385710772/photo/girl-watering-home-plants-selective-focus.webp?a=1&b=1&s=612x612&w=0&k=20&c=gHa82UOzKs2mOBJo2aNai9t8-5vgGgNTKuuCIqP29ls=",
+  },
+  {
+    id: 9,
+    name: "Pothos",
+    price: 19,
+    image: "https://images.unsplash.com/photo-1599491124443-6225f8b89b1a?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 10,
+    name: "ZZ Plant",
+    price: 24,
+    image: "https://images.unsplash.com/photo-1592840957577-12753c9b8d4e?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 11,
+    name: "Rubber Plant",
+    price: 32,
+    image: "https://images.unsplash.com/photo-1606924477390-86e6e1f5b2a5?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 12,
+    name: "Calathea",
+    price: 27,
+    image: "https://images.unsplash.com/photo-1602022792939-2603b89b3d33?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 13,
+    name: "Philodendron",
+    price: 26,
+    image: "https://images.unsplash.com/photo-1603052875284-6e6c45cfef8a?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 14,
+    name: "Bamboo Palm",
+    price: 29,
+    image: "https://images.unsplash.com/photo-1606813902994-4c964f6f1c2f?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 15,
+    name: "Succulent Mix",
+    price: 14,
+    image: "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 16,
+    name: "Areca Palm",
+    price: 33,
+     image: "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=600&q=80",
+  },
+];
