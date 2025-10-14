@@ -1,12 +1,12 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Link } from "react-router-dom"; // for navigation
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <nav
       className="navbar navbar-expand-lg navbar-light shadow-sm px-4"
-      style={{ backgroundColor: "#d0f0c0" }} // 🌿 light green background
+      style={{ backgroundColor: "#d0f0c0" }} 
     >
       <div className="container-fluid">
         {/* Left: Logo */}

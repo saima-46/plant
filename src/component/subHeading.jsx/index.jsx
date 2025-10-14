@@ -10,7 +10,7 @@ const Subheading = () => {
     
     <nav
       className="navbar navbar-expand-lg shadow-sm"
-      style={{ backgroundColor: "#66bb6a" }} // 🌿 soft green color
+      style={{ backgroundColor: "#66bb6a" }} 
     >
       <div className="container-fluid">
         {/* Toggle button for mobile */}

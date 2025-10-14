@@ -7,7 +7,7 @@ const Home = () => {
     <div
       className="container-fluid d-flex align-items-center justify-content-center"
       style={{
-        backgroundColor: "#e8f5e9", // 🌿 soft green background
+        backgroundColor: "#e8f5e9", 
         minHeight: "100vh",
       }}
     >
