@@ -1,5 +1,6 @@
 import React from "react";
 import { plantData } from "../../data/plantdata.js";
+import { Link } from "react-router-dom";
 
 const PlantList = () => {
   return (
@@ -18,7 +19,10 @@ const PlantList = () => {
               <div className="card-body text-center">
                 <h6 className="fw-semibold text-success">{plant.name}</h6>
                 <p className="fw-bold text-dark">${plant.price}</p>
-                <button className="btn btn-outline-success btn-sm">Buy Now</button>
+                <Link to={`/plant/${plant?.id}`}>
+                  <button className="btn btn-outline-success btn-sm">Buy Now</button>
+                </Link>
+              
               </div>
             </div>
           </div>

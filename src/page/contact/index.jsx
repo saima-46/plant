@@ -5,8 +5,8 @@ import Subheading from "../../component/subHeading.jsx";
 
 const Contact = () => {
   return (<>
-  <Header/>
-  <Subheading/>
+
+
     <div
       className="container-fluid py-5"
       style={{

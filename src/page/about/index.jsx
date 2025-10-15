@@ -5,8 +5,8 @@ import Subheading from "../../component/subHeading.jsx";
 
 const About = () => {
   return (<>
-    <Header/>
-    <Subheading/>
+   
+   
     <div className="container-fluid py-5" style={{
         backgroundColor: "#e8f5e9", 
         minHeight: "100vh",

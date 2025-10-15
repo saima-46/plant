@@ -9,12 +9,11 @@ import PlantList from '../../component/plantdummycard/index.jsx';
 const Plant = () => {
   return (
     <>
-      <Header/>
-      <Subheading/>
+      
+      
       {/* <Card/> */}
       {/* card is fectching api now we creat dummy api for plant Plantlist */}
       <PlantList/>
-
       
 
 
